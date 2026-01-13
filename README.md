@@ -1,4 +1,4 @@
-Hi 👋 My name is shereen
+Hi 👋 I'm  shereen
 ========================
 
 Fullstack developer
