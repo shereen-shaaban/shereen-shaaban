@@ -6,7 +6,7 @@ Fullstack developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [shereenshabaan021@gmail.com](mailto:shereenshabaan021@gmail.com)
-* ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/shereen-shaaban-0216203a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+* ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/shereen-shaaban-0216203a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🧠  I'm currently learning .net
 
 <p align="left">
