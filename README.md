@@ -2,7 +2,7 @@ Hi 👋 I'm  shereen
 ========================
 
 Fullstack developer
-with a strong background in Python and its frameworks, currently expanding my expertise in .NET technologies. Passionate about operating systems and how code interacts with them, with a particular interest in Linux and Windows native environments and their implementations. Graduate of the Faculty of Computer and Artificial Intelligence, with a commitment to continuous learning and building efficient, scalable applications.
+<p>with a strong background in Python and its frameworks, currently expanding my expertise in .NET technologies. Passionate about operating systems and how code interacts with them, with a particular interest in Linux and Windows native environments and their implementations. Graduate of the Faculty of Computer and Artificial Intelligence, with a commitment to continuous learning and building efficient, scalable applications.</p>
 -------------------
 
 * 🌍  I'm based in Egypt
