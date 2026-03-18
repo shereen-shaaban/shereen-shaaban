@@ -2,8 +2,6 @@
 <h1>Fullstack developer</h1><p>with a strong background in Python and its frameworks, currently expanding my expertise in .NET technologies. Passionate about operating systems and how code interacts with them, with a particular interest in Linux and Windows native environments and their implementations. Graduate of the Faculty of Computer and Artificial Intelligence, with a commitment to continuous learning and building efficient, scalable applications.</p>
 -------------------
 
-* 🌍  I'm based in Egypt
-* ✉️  [shereenshabaan021@gmail.com](mailto:shereenshabaan021@gmail.com)
 * ✉️  [Linkedin](https://www.linkedin.com/in/shereen-shaaban-0216203a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🧠  I'm currently learning .net
 
